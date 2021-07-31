@@ -34,3 +34,6 @@ Finally, run the following npm commands to get started.
 npm run seed
 npm run start
 ```
+## Walkthrough Link
+
+<a href="https://drive.google.com/file/d/1qYJHyJmjkKbaZm10mwMjmiGnaTFUh5q3/view?usp=sharing">Click Me!</a>
