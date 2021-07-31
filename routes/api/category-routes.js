@@ -11,7 +11,7 @@ router.get('/', async (req, res) => {
       include: [{ model: Product }],
     });
     res.status(200).json(catData);
-  } catch(err) {
+  } catch (err) {
     res.status(500).json(err);
   }
 });
