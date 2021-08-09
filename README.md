@@ -1,4 +1,4 @@
-# Commerce Back End
+# E-Commerce Back End
 
 ![mit](https://img.shields.io/badge/license-MIT-blue)
 
@@ -11,7 +11,7 @@ This project revolves around developing back-end code for the eCommerce API. Mos
 Clone the repository onto your local computer using the following command.
 
 ```
-git clone https://github.com/pbyakod/commerce-backend.git
+git clone https://github.com/pbyakod/e-commerce-backend.git
 ```
 
 Create a .env file in the same directory as the server js file. Once complete, open the .env file and fill in the fields based on the '.env.EXAMPLE file'
@@ -36,4 +36,4 @@ npm run start
 ```
 ## Walkthrough Link
 
-<a href="https://drive.google.com/file/d/1qYJHyJmjkKbaZm10mwMjmiGnaTFUh5q3/view?usp=sharing">Click Me!</a>
+<a href="https://drive.google.com/file/d/1qYJHyJmjkKbaZm10mwMjmiGnaTFUh5q3/view?usp=sharing">Walkthrough Video</a>
